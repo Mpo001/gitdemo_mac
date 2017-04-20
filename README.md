@@ -1,2 +1,3 @@
 # gitdemo_mac
-CSC 1120 Git Demo from Mac
+## This is a sub heading
+CSC 1120 *Git* Demo **from** Mac
